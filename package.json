@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/uchrissd/slack-bot-test#readme",
   "dependencies": {
-    "@slack/bolt": "^2.2.3"
+    "@slack/bolt": "^2.2.3",
+    "axios": "^0.19.2"
   }
 }
